@@ -1,7 +1,11 @@
 first file
 changed
 third
+<<<<<<< HEAD
 
 
 
 luasdmasdas
+=======
+asdansdklans
+>>>>>>> exp3

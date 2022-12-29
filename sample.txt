@@ -1,5 +1,9 @@
 hulul lu lu l u lu
 
+<<<<<<< HEAD
 
 
 haahahaha
+=======
+heheheh
+>>>>>>> exp3
